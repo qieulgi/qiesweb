@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Gorditas Mexicana | HTML-Only Page Structure | Meyli Roque Martinez</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gorditas Mexicana</h1>
+        <h2>33 Degrees</h2>
+    </header>
+
+    <main>
+        <section>
+            <h3>Ingredients for Gordita
+			</h3>
+            <li>List your ingredients here...</li>
+			<ul>-Maseca- this is corn flour and is the most important ingredient. There are no substitutes, although you can make a flour based gordita if you can’t find maseca. It will taste different, but still good.</ul>
+			<ul>-baking powder</ul>
+			<ul>-salt</ul>
+			<ul>-warm water</ul>
+			<ul>-skirt steak</ul>
+			<ul>-garlic/Salt paste: provides so much flavor!</ul>
+			<ul>-Orange and Lime juice</ul>
+			<ul>- Any neaural olive oil(no extra virgin olive oil)</ul>
+			<ul>-white vinegar</ul>
+		<ul>-Spices: pepper,cumin, chili powder, mexican oregano, and onion powder
+<ul>-Cilantro, Onion, and jalapeno into the marinade</ul>
+        </section>
+
+        <section>
+            <h3>Steps</h3>
+            <p>Provide step-by-step instructions here...</p>
+			<ul>-Grind garlic into a paste after roasting</ul>
+			<ul>-Marinade the paste into the skirt steak in the fridge for 2-4 hours </ul>
+			<ul>-Smash the avocados then add the rest of the guacamole ingredients together and set it aside. To keep it from browning, place saran wrap right on top to seal it so there is no oxygen. This keeps it from oxidizing.</ul>
+			<ul>-Combine the maseca and slowy pour warm water until dough is soft</ul>
+			<ul>Divide the dough into 8 pieces and form a pocket to fill with whatever cheese you like!</ul>
+			<ul>-Form into balls and proceed to flatten 1/8-1/4 inch discs</ul>
+			<ul>-Grill the carne asada or cook it on a ast iron skillet with the onions and jalapenos left over</ul>
+			<ul>-Cut into small chunks and squeeze some lime juice all over</ul>
+			<ul>-Fry the gorditas neutral (325 degrees fahrenheit)</ul>
+			<ul>Carefull cut into the gorditas but only half way</ul>
+			<ul>-Stuff with guac, queso fresco, lettuce, carne asada, crema, and salsa</ul>
+			<ul>-Finally...Enjoy!!!</ul>
+        </section>
+    </main>
+
+    <footer>
+        <p> 2025, Meyli Roque Martinez.</p>
+        <p>This is a fictitious web page created solely for the purpose of education and training. All products and people associated with this web page are also fictitious. Any resemblance to real brands, products, or people is purely coincidental. Information provided about the product is also fictitious and should not be construed to be representative of actual products on the market in a similar product category.</p>
+</footer>
+
+</body>
+</html>
